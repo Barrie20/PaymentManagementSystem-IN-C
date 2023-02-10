@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1625753399 source:c:\users\adones\desktop\code blocks\pms-in-c\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1625753399 source:c:\users\dell\desktop\programing project\c\desktop application\paymentmanagementsystem-in-c\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
